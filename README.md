@@ -8,7 +8,7 @@ You can find Cameron on Youtube by searching "@redanaku667" in the search bar.
 
 # Social Media
 
-You can find the only currently maintained social media on Tumblr, @redanaku667.
+You can find the only currently maintained social media account on Tumblr, @redanaku667.
 
 **NOTE: Her Twitter Page (@redanaku667), although official, is no longer maintained**
 
