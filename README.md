@@ -1,10 +1,10 @@
 # Velkommen!
 
-This is the personal site for Redanaku667, also known as Cameron! Many things may be discussed here, but more than likely it will be used as a way to advertise her various projects.
+This is the personal site for Redanaku667, also known as Red! Many things may be discussed here, but more than likely it will be used as a way to advertise her various projects.
 
 # Youtube Channel
 
-You can find Cameron on Youtube by searching "@redanaku667" in the search bar.
+You can find Red on Youtube by searching "@redanaku667" in the search bar.
 
 # Social Media
 
