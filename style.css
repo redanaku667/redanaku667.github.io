@@ -5,6 +5,7 @@ a:link, a:visited {
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    width: fit-content;
 }
 
 a:hover, a:active {
