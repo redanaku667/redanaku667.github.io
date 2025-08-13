@@ -17,6 +17,11 @@ h3, h1 {
     font-family: 'Courier New', Courier, monospace;
 }
 
+#myLogo {
+    height:10%;
+    width:10%;
+}
+
 .toc {
     width: 204%;
     height: 50%;
