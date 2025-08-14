@@ -4,3 +4,8 @@ td {
     align-items: center;
     border-radius: 40px;
 }
+
+.titbar {
+    background-color: coral;
+    border-radius: 20px;
+}
