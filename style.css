@@ -2,10 +2,6 @@ td {
     height: 50px;
     width: 50px;
     align-items: center;
-    border-radius: 40px;
-}
-
-.titbar {
-    background-color: coral;
     border-radius: 20px;
+    background-color: coral;
 }
