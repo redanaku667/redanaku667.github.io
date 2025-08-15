@@ -9,4 +9,6 @@ td {
 .titbar {
     background-color: coral;
     text-decoration: none;
+    color: white;
+    padding: 10px;
 }
