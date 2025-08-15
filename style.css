@@ -15,7 +15,7 @@ td {
     width: auto;
 }
 
-.titbar:hover, .titbar:active {
+.titbar:hover {
     background-color: crimson;
     color: white;
 }
