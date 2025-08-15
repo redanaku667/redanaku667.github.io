@@ -7,18 +7,12 @@ li {
     float: left;
 }
 
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-}
-
 .titbar {
     background-color: coral;
     text-decoration: none;
     color: white;
     padding: 10px;
-    display: inline-block;
+    display: block;
     transition-duration: 0.4s;
     width: 33%;
 }
