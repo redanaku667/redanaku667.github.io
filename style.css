@@ -5,10 +5,14 @@ td {
     border-radius: 20px;
 }
 
-.titbar {
+.titbar:link, .titbar:visited {
     background-color: coral;
     text-decoration: none;
     color: white;
     padding: 10px;
     display: inline-block;
+}
+
+.titbar:hover, .titbar:active {
+    background-color: crimson;
 }
