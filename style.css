@@ -7,6 +7,12 @@ li {
     float: left;
 }
 
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+}
+
 .titbar {
     background-color: coral;
     text-decoration: none;
