@@ -3,8 +3,6 @@ td {
     width: 50px;
     align-items: center;
     border-radius: 20px;
-    margin: 70px;
-
 }
 
 .titbar {
@@ -12,4 +10,5 @@ td {
     text-decoration: none;
     color: white;
     padding: 10px;
+    display: inline-block;
 }
