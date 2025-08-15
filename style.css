@@ -12,7 +12,7 @@ td {
     padding: 10px;
     display: inline-block;
     transition-duration: 0.4s;
-    width: auto;
+    width: 33%;
 }
 
 .titbar:hover {
