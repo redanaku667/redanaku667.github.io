@@ -1,23 +1,23 @@
 ul {
-    list-style-type: none;
-    overflow: hidden;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: coral;
 }
 
 li {
-    float: left;
+  float: left;
 }
 
-.titbar {
-    background-color: coral;
-    text-decoration: none;
-    color: white;
-    padding: 10px;
-    display: block;
-    transition-duration: 0.4s;
-    width: 33%;
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
-.titbar:hover {
-    background-color: crimson;
-    color: white;
+li a:hover {
+  background-color: coral;
 }
