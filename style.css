@@ -6,10 +6,6 @@ ul {
   background-color: coral;
 }
 
-li {
-  float: left;
-}
-
 li a {
   display: block;
   color: white;
